@@ -4,10 +4,9 @@
 # Installation
 1. On Terminal
 ```
-$ git clone https://github.com/yutuno/XcodeMyStyle.git && cd XcodeMyStyle/
+$ git clone https://github.com/yutuno/XcodeMyStyle.git && cd XcodeMyStyle/ && install-theme.sh
 ```
 
 2. Restart Xcode
 3. Happy Coding✨
 
-MyStyle.xccolortheme
