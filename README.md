@@ -8,5 +8,4 @@ $ git clone https://github.com/yutuno/XcodeMyStyle.git && cd XcodeMyStyle/ && in
 ```
 
 2. Restart Xcode
-3. Happy Coding✨
-
+3. Happy Coding :octocat:
